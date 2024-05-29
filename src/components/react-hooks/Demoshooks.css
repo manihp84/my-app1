@@ -1,0 +1,21 @@
+/* Demohooks.css */
+   .app.light {
+    /* Light theme specific styles */
+    background-color: white;
+    color: black;
+   }
+   
+   .app.Black {
+    /* Dark theme specific styles */
+    background-color:red;
+    color: white;
+   }
+   .app.Green {
+      /* Dark theme specific styles */
+      background-color:green;
+      color: white;
+     }
+   .light-blue {
+      background-color: lightblue; /* Define the light and blue color */
+      color: white; /* Optional: Change the text color to white for better contrast */
+     }

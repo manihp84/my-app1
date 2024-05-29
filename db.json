@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "type": "posts",
+      "id": "1",
+      "attributes": {
+        "title": "First post",
+        "content": "This is my first post"
+      }
+    },
+    {
+      "type": "posts",
+      "id": "2",
+      "attributes": {
+        "title": "Second post",
+        "content": "This is my second post"
+      }
+    },
+    {
+      "id": "fa88",
+      "data": {
+        "type": "posts",
+        "attributes": {
+          "title": "Third Post",
+          "content": "Trying Out!",
+          "name": "My Name"
+        }
+      }
+    },
+    {
+      "id": "042b",
+      "data": {
+        "type": "posts",
+        "attributes": {
+          "title": "Third Post",
+          "content": "Trying Out!"
+        }
+      }
+    },
+    {
+      "id": "2d49",
+      "data": {
+        "type": "posts",
+        "attributes": {
+          "title": "Your Name",
+          "content": "Manni Singh"
+        }
+      }
+    },
+    {
+      "id": "98a3",
+      "data": {
+        "type": "posts",
+        "attributes": {
+          "title": "Name",
+          "content": "Manni"
+        }
+      }
+    },
+    {
+      "id": "0eef",
+      "data": {
+        "type": "posts",
+        "attributes": {
+          "title": "Name",
+          "content": "Manni"
+        }
+      }
+    }
+  ]
+}

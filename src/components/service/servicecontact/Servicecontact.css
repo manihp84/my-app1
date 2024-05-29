@@ -1,0 +1,39 @@
+.contact .icon {
+  color: #d2a98e;
+  margin-top: 200px;
+  margin-bottom: 10px;
+}
+.text {
+  text-align: center;
+}
+.main-contact h6 {
+  color: #2a0d95;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.78;
+  margin-bottom: 8px;
+}
+
+.text-cont {
+  color: #062f5d;;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 1.17;
+}
+.icon-1{
+  color: #d2a98e;
+}
+
+.main-cont h5 {
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.78;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2a0d95;
+}
