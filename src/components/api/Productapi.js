@@ -22,9 +22,13 @@ function Apiapp() {
 
   const search = (products) => {
     return products.filter((product) =>
-      searchParameters.some((parameter) =>
-        product[parameter].toString().toLowerCase().includes(query.toLowerCase())
-      )
+      searchParameters.some((parameter) => {
+        const value = product[parameter];
+        if (value) {
+          return value.toString().toLowerCase().includes(query.toLowerCase());
+        }
+        return false;
+      })
     );
   };
 
@@ -65,3 +69,4 @@ function Apiapp() {
 }
 
 export default Apiapp;
+
