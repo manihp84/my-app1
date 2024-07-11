@@ -57,24 +57,24 @@ export const HeaderDataDropdown = [
 export const BannerData = [
     {
         id: 1,
-        heading: "My first slide",
-        imgLink: process.env.PUBLIC_URL + "/images/bannerimg/ban.jpg",
+        heading: "Facilitate All Local IT-related Service Providers",
+        imgLink: process.env.PUBLIC_URL + "/images/bannerimg/new-1.jpg",
         clchange: "banner-img",
-        content: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        content: "Highly Tailored IT Design, Management & Support Services. ",
     },
     {
         id: 2,
-        heading: "My first slide",
-        imgLink: process.env.PUBLIC_URL + "/images/bannerimg/ban-1.jpg",
+        heading: "Facilitate All Local IT-related Service Providers",
+        imgLink: process.env.PUBLIC_URL + "/images/bannerimg/new-2.jpg",
         clchange: "banner-img",
-        content: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        content: "Highly Tailored IT Design, Management & Support Services. ",
     },
     {
         id: 3,
-        heading: "My first slide",
-        imgLink: process.env.PUBLIC_URL + "/images/bannerimg/ban-2.jpg",
+        heading: "Facilitate All Local IT-related Service Providers ",
+        imgLink: process.env.PUBLIC_URL + "/images/bannerimg/new-3.jpg",
         clchange: "banner-img",
-        content: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+        content: "Highly Tailored IT Design, Management & Support Services. ",
     },
 
 
